@@ -4,6 +4,7 @@ import os
 import sys
 
 def Txtkirici():
+        os.system("clear")
         yazar = """
             # # # # # # # # # # # # # # #
             #   TXT KIRICI VERSİYON 1   #
