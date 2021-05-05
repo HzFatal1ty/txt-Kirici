@@ -84,7 +84,6 @@ def Txtkirici():
             "babuslar.txt",
             "kurbanlistesi.txt",
             "liste.txt",
-            "index.html", # sil burayı..
             "listeler.txt",
             "kullanicilistesi.txt",
             "MrRobot.txt",
