@@ -4,7 +4,10 @@ import os
 import sys
 
 def Txtkirici():
-        os.system("clear")
+        if os.name == "nt":
+                os.system("cls")
+        else:
+                os.system("clear")
         yazar = """
             # # # # # # # # # # # # # # #
             #   TXT KIRICI VERSİYON 1   #
